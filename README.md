@@ -1,4 +1,4 @@
-# Digital Portfolio - Социальная Платформа для Проектов! <img src="https://media.tenor.com/dMwtTTN4XusAAAAj/yeah-cute.gif" width="100" height="100" />
+## Digital Portfolio - Социальная Платформа для Проектов! <img src="https://media.tenor.com/dMwtTTN4XusAAAAj/yeah-cute.gif" width="100" height="100" />
 ```zsh
 > print("Hello my friend!")
 ```
